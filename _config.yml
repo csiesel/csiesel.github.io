@@ -158,7 +158,8 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-
+#Added this in to remove the blog from the first page
+paginate_path: "/blog/page:num/"
 kramdown:
   input: GFM
 
