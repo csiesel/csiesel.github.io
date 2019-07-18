@@ -39,7 +39,7 @@ avatar: "/img/SaniPath-Cropped-260x265.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 #CASEY- changed navbar-col to comment and added image below
-navbar-col: "#1a3157"
+# navbar-col: "#1a3157"
 navbar-text-col: "#ffffff"
 navbar-children-col: "#0d5a99"
 page-col: "#FFFFFF"
@@ -52,7 +52,7 @@ footer-link-col: "#333333"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/IMG_9392.JPG"
+ navbar-img: "/img/IMG_9392.JPG"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
