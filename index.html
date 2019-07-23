@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SaniPath Exposure Assessment Tool
-subtitle: This tool is for 
+subtitle: This tool is for
 use-site-title: true
 ---
 
@@ -14,11 +14,15 @@ use-site-title: true
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
 		  <script src="js/typed.js></script>
-			<script> var typed = new Typed('#typed', {stringsElement: '#typed-strings'});</script>
+        <script>
+          var typed = new Typed('#typed', {
+          stringsElement: '#typed-strings'
+        });
+      </script>
 	    {{ post.subtitle }}
 			<div id="typed-strings">
-    	<p>Typed.js is a <strong>JavaScript</strong> library.</p>
-    	<p>It <em>types</em> out sentences.</p>
+    	   <p>Typed.js is a <strong>JavaScript</strong> library.</p>
+    	    <p>It <em>types</em> out sentences.</p>
 			</div>
 			<span id="typed"></span>
 	  </h3>
