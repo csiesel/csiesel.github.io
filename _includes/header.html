@@ -64,15 +64,15 @@
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
 		<script>
-  		   var typed = new Typed('#typed', {
-    		   stringsElement: '#typed-strings'
-  		   });
-		 </script>
-		 <div id="typed-strings">
-    		   <p>Typed.js is a <strong>JavaScript</strong> library.</p>
-    		   <p>It <em>types</em> out sentences.</p>
-		 </div>
-		 <span id="typed"></span>
+  		var typed2 = new Typed('#typed2', {
+    		strings: ['Some <i>strings</i> with', 'Some <strong>HTML</strong>', 'Chars &times; &copy;'],
+    		typeSpeed: 0,
+    		backSpeed: 0,
+    		fadeOut: true,
+    		loop: true
+  		});
+		</script>
+		<span id="typed2" class=""></span>
         </div>
       </div>
     </div>
