@@ -65,7 +65,18 @@
 		  {% endif %}
 
 		<!-- PUT TYPING TEXT HERE -->
-		
+		<div id="#typed-strings">
+			<p> Typed.js is a <strong> JavaScript </strong> library.</p>
+			<p> It can type anything for you!</p>
+		</div>
+		<span id="typed"></span>
+		<script>
+			$('document').ready(function(){
+				var typed = new Typed('#typed',{
+					stringElement: '#typed-strings'
+				})
+				});
+		</script>
 		
         </div>
       </div>
