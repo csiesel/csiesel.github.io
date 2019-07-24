@@ -65,13 +65,16 @@
 		  {% endif %}
 
 		<!-- PUT TYPING TEXT HERE -->
-		<div id="typed-strings">
+		<!-- <div id="typed-strings">
 			<p> <font color="#9E1A1A">Typed.js is a <strong> JavaScript </strong> library.</p>
 			<p> It can type anything for you!</p> </font>
-		</div>
+		</div> -->
 		<span id="typed"></span>
 	<script>
-	  var typed = new Typed('#typed',{stringsElement: '#typed-strings', backSpeed: 40, typeSpeed: 40});
+	  var typed = new Typed('.element',
+		{strings: ["Researchers ^1000", "Municipal Authorities ^1000", "NGOs ^1000", "Funding Agencies ^1000", "Everyone ^1000"],
+		 backSpeed: 40,
+		 typeSpeed: 40});
 	</script>
 		
         </div>
