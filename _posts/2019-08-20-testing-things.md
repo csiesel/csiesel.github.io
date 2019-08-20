@@ -1,9 +1,8 @@
 ---
 layout: post
-published: true
 title: Testing Things
 subtitle: Testing
-date: '2019-20-08'
+date: 2019-20-08
 ---
 ## A New Post
 
