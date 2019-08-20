@@ -2,7 +2,8 @@
 layout: post
 title: Testing Things
 subtitle: Testing
-date: 2019-20-08
+date: 'Fri Aug 07 2020 20:00:00 GMT-0400 (Eastern Daylight Time)'
+published: true
 ---
 ## A New Post
 
