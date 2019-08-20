@@ -10,6 +10,6 @@ published: true
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
-<iframe src='https://drive.google.com/file/d/0BzykEPRZiTmEcnN0MDJ4WnI3Q1k/view?usp=sharing' width='100%' height='600px' frameborder='0'> </iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQujiqUWYSQt2_q-3BqCQn6Wq2G4r5ZGo0GSOdru2OhHYg1uQLvTIjdO6g/embed?start=false&loop=true&delayms=30000" frameborder="0" width="1440" height="1109" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
  <embed src="https://csiesel.github.io/pdfs/EUV_EHCregistration.pdf" width="100%" height="500px" type="application/pdf" />
