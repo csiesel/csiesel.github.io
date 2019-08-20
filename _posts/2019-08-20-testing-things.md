@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Testing Things
 subtitle: Testing
 date: '2019-20-08'
