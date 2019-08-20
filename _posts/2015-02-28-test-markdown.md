@@ -44,6 +44,11 @@ It can also be centered!
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
 
+
+ <embed src="https://csiesel.github.io/pdfs/EUV_EHCregistration.pdf" width="600px" height="500px" type="application/pdf">
+ </embed>
+
+
 Here's a code chunk:
 
 ~~~
