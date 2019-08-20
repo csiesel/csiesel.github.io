@@ -12,5 +12,4 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 
 
- <embed src="https://csiesel.github.io/pdfs/EUV_EHCregistration.pdf" width="100%" height="500px" type="application/pdf">
- </embed>
+ <embed src="https://csiesel.github.io/pdfs/EUV_EHCregistration.pdf" width="100%" height="500px" type="application/pdf" />
