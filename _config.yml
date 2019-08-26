@@ -20,13 +20,24 @@ description: The SaniPath Exposure Assessment Tool Website!
 
 # List of links in the navigation bar
 navbar-links:
+  The Tool:
+    - The NEW Tool: "https://tool.sanipath.org/"
+    - Process:
+    - Approach:
+    - Is it for me?:
+    - Manual and Protocols: "https://sites.google.com/view/sanipathwiki"
+    - Tool Tutorials: "https://youtube.com/channel/UCJ-O8rulhWKEf61nzssxaaQ"
+    - Archived Protocols:
   About Me: "aboutme"
   Blog: "https://csiesel.github.io/blog/"
   About: "About"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+    - Overview:
+    - News:
+    - Photos:
+    - CGSW:
+    - Partners:
+    - The Team:
+    - Contact:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
