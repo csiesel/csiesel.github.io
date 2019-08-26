@@ -20,7 +20,7 @@ description: The SaniPath Exposure Assessment Tool Website!
 
 # List of links in the navigation bar
 navbar-links:
-  The Tool: "https://sanipath.org/"
+  The Tool: "aboutme"
     - The NEW Tool: "https://tool.sanipath.org/"
     - Process: "https://csiesel.github.io/"
     - Approach: "https://csiesel.github.io/"
