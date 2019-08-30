@@ -16,5 +16,3 @@ fields:
   config:
     required: false
   label: asdf
-pages:
-- asdf.md
