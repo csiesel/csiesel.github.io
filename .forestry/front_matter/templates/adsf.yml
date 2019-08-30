@@ -11,3 +11,8 @@ fields:
 - type: text
   name: subtitle
   label: subtitle
+- name: asdf
+  type: text
+  config:
+    required: false
+  label: asdf
